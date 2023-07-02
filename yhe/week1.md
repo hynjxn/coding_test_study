@@ -1,4 +1,4 @@
-# 🐩 양하은 ([haeuniiiii](https://github.com/haeuniiiii))
+# 🐑 양하은 ([haeuniiiii](https://github.com/haeuniiiii))
 
 ### Week 01 (23.07.03 ~ 23.07.09)
 
