@@ -1,4 +1,4 @@
-# 👩‍💻 이현진 ([hynjxn](https://github.com/hynjxn))
+# 🐩 채지은 ([hynjxn](https://github.com/cje1903))
 
 ### Week 01 (23.07.03 ~ 23.07.09)
 
@@ -18,7 +18,7 @@
 <hr/>
 
 ### 📑 문제 선정 규칙
-- 주차마다 메인으로 공부할 알고리즘을 선정하고 3문제를 풉니다
+- 주차마다 메인으로 공부할 알고리즘을 선정하고 5문제를 풉니다
   <br>
     - 문제 선정은 <a href="">tony9402님의 문제집</a>를 참고하였습니다
 - 나머지 2문제(+α)는 <a href="https://www.acmicpc.net/workbook/top">백준 문제집</a> 혹은 <a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&statuses=unsolved&levels=3%2C2&languages=python3">프로그래머스 기출문제</a> 등에서 <b>알고리즘 분류를 확인하지 않고 랜덤으로</b> 선택합니다
