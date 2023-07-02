@@ -8,14 +8,14 @@
     <td align="center"><a href="https://github.com/CyberBoder"><img src="https://avatars.githubusercontent.com/CyberBoder" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/hynjxn"><img src="https://avatars.githubusercontent.com/hynjxn" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/sforsara"><img src="https://avatars.githubusercontent.com/sforsara" width="130px;" alt=""></a></td>
-<!--     <td align="center"><a href="https://github.com/하은"><img src="https://avatars.githubusercontent.com/하은" width="130px;" alt=""></a></td> -->
+    <td align="center"><a href="https://github.com/haeuniiiii"><img src="https://avatars.githubusercontent.com/haeuniiiii" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/cje1903"><b>채지은</b></a></td>
     <td align="center"><a href="https://github.com/CyberBoder"><b>이준범</b></a></td>
     <td align="center"><a href="https://github.com/hynjxn"><b>이현진</b></a></td>
     <td align="center"><a href="https://github.com/sforsara"><b>홍사라</b></a></td>
-<!--     <td align="center"><a href="https://github.com/하은"><b>양하은</b></a></td> -->
+    <td align="center"><a href="https://github.com/haeuniiiii"><b>양하은</b></a></td>
   </tr>
   <tr> 
     <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
@@ -29,7 +29,7 @@
 <br/>
 
 ## 📍 진행 사항 기록
-|  | 채지은 | 이현진 | 이준범 | 홍사라 | 양하은 |
+|  | 채지은 | 이준범 | 이현진 | 홍사라 | 양하은 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Week 01</br>(23.07.03.) |  |  |  |  |  |
 
@@ -51,7 +51,8 @@
 3. 본인의 디렉토리 내에 markdown으로 각자 문제 선정 기록 및 세부 규칙 등을 작성한다!
 4. 아래의 repository 폴더 구조에 따라 문제 소스코드를 업로드한다.
 5. 이때 `commit 규칙`을 지키도록한다!
-6. 원본 저장소로 `Pull Request`를 한다. 
+6. 원본 저장소로 `Pull Request`를 한다.
+<br>
 *** 개인 폴더 내부만 수정해주세요 :) :) :) ***
 
 
