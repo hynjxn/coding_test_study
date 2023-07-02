@@ -1,4 +1,4 @@
-# 🐩 채지은 ([hynjxn](https://github.com/cje1903))
+# 🐩 채지은 ([cje1903](https://github.com/cje1903))
 
 ### Week 01 (23.07.03 ~ 23.07.09)
 
