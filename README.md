@@ -5,7 +5,7 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/cje1903"><img src="https://avatars.githubusercontent.com/cje1903" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/CyberBoder"><img src="https://avatars.githubusercontent.com/CyberBoarder" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/CyberBoarder"><img src="https://avatars.githubusercontent.com/CyberBoarder" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/hynjxn"><img src="https://avatars.githubusercontent.com/hynjxn" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/sforsara"><img src="https://avatars.githubusercontent.com/sforsara" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/haeuniiiii"><img src="https://avatars.githubusercontent.com/haeuniiiii" width="130px;" alt=""></a></td>
