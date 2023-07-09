@@ -13,6 +13,8 @@
 | 3 | BOJ | <a href="https://www.acmicpc.net/problem/2493">2493: 탑</a> | 자료구조 | 골드5 |     <a href="./week01/BOJ_2493_탑.py">🔗</a>      |
 | 4 | PGS | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92335">k진수에서 소수 개수 구하기</a> | ??? | Lv.2 | <a href="./week01/PGS_k진수에서_소수_개수_구하기.py">🔗</a> |
 | 5 | BOJ | <a href="https://www.acmicpc.net/problem/13549">13549: 숨바꼭질 3</a> | ???| 골드5 |   <a href="./week01/BOJ_13549_숨바꼭질3.py">🔗</a>   |
+| +α | BOJ | <a href="https://www.acmicpc.net/problem/1987">1987: 알파벳</a> | ???| 골드4 |   <a href="./week01/BOJ_1987_알파벳.py">🔗</a>   |
+
 
 <br/>
 <hr/>
