@@ -8,10 +8,10 @@
 
 |  | 플랫폼 | 문제 이름 | 알고리즘 분류 | 난이도 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | BOJ | <a href="https://www.acmicpc.net/problem/2163">초콜릿 자르기</a> | 수학, 사칙연산 | |
-| 2 | BOJ | <a href="https://www.acmicpc.net/problem/2530">인공지는 시계</a> | 수학, 사칙연산 | |
-| 3 | BOJ | <a href="https://www.acmicpc.net/problem/10817">세 수</a> | 구현, 정렬 | |
-| 4 | PGS | <a href="https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3">프로그래머스 스쿨 코딩 기초 트레이닝</a> | 기초 | |
+| 1 | BOJ | <a href="https://www.acmicpc.net/problem/2163">초콜릿 자르기</a> | 수학, 사칙연산 | 브론즈1 |
+| 2 | BOJ | <a href="https://www.acmicpc.net/problem/2530">인공지는 시계</a> | 수학, 사칙연산 | 브론즈4 |
+| 3 | BOJ | <a href="https://www.acmicpc.net/problem/10817">세 수</a> | 구현, 정렬 | 브론즈3 |
+| 4 | PGS | <a href="https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3">프로그래머스 스쿨 코딩 기초 트레이닝</a> | 기초 | Lv.0 |
 
 
 <br/>
@@ -19,6 +19,7 @@
 
 ### 📑 문제 선정 규칙
 - 기초 알고리즘에 익숙해질 때까지 <a href="https://school.programmers.co.kr/learn/challenges?order=recent">프로그래머스 스쿨</a> 과 백준 문제집 중 <a href="https://www.acmicpc.net/workbook/view/459">Python 배우기 (1~50)</a> 위주로 풀 예정입니다.
+  
 ~~- 주차마다 메인으로 공부할 알고리즘을 선정하고 3문제를 풉니다~~
   <br>
     ~~- 문제 선정은 <a href="">tony9402님의 문제집</a>를 참고하였습니다~~
