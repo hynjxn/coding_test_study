@@ -22,7 +22,7 @@
 |  | 플랫폼 | 문제 이름 | 알고리즘 분류 | 난이도 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
 | 1 | PGS | <a href="https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3">프로그래머스 스쿨 코딩 기초 트레이닝</a> | 기초 | Lv.0 |
-| 2 | PGS | <a href="https://www.acmicpc.net/problem/2675">문자열 반복</a> | 기초 | 브론즈2 |
+| 2 | BOJ | <a href="https://www.acmicpc.net/problem/2675">문자열 반복</a> | 기초 | 브론즈2 |
 | 3 | BOJ | <a href="https://www.acmicpc.net/problem/2935">소음</a> | 수학, 사칙연산, 문자열 | 브론즈3 |
 | 4 | BOJ | <a href="https://www.acmicpc.net/problem/11653">소인수분해</a> | 수학, 정수론, 소수 판정 | 브론즈1 |
 | 5 | BOJ | <a href="https://www.acmicpc.net/problem/1934">최소공배수</a> | 수학, 정수론, 유클리드 호제법 | 브론즈1 |
