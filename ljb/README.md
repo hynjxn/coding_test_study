@@ -8,10 +8,11 @@
 
 |  | 플랫폼 | 문제 이름 | 알고리즘 분류 | 난이도 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | BOJ | <a href="https://www.acmicpc.net/problem/2163">초콜릿 자르기</a> | 수학, 사칙연산 | 브론즈1 |
-| 2 | BOJ | <a href="https://www.acmicpc.net/problem/2530">인공지는 시계</a> | 수학, 사칙연산 | 브론즈4 |
-| 3 | BOJ | <a href="https://www.acmicpc.net/problem/10817">세 수</a> | 구현, 정렬 | 브론즈3 |
-| 4 | PGS | <a href="https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3">프로그래머스 스쿨 코딩 기초 트레이닝</a> | 기초 | Lv.0 |
+| 1 | BOJ | <a href="https://www.acmicpc.net/problem/2163">초콜릿 자르기</a> | 수학, 사칙연산 | 브론즈1 | <a href="./week1/BOJ_2163_초콜릿 자르기.py">🔗</a>
+| 2 | BOJ | <a href="https://www.acmicpc.net/problem/2530">인공지능 시계</a> | 수학, 사칙연산 | 브론즈4 | <a href="./week1/BOJ_2530_인공지능 시계.py">🔗</a>
+| 3 | BOJ | <a href="https://www.acmicpc.net/problem/10817">세 수</a> | 구현, 정렬 | 브론즈3 |  <a href="./week1/BOJ_2530_인공지능 시계.py">🔗</a>
+| 4 | PGS | <a href="https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3">프로그래머스 스쿨 코딩 기초 트레이닝 day1</a> | 기초 | Lv.0 |  <a href="PGS_기초트레이닝_day1.py">🔗</a>
+| 5 | PGS | <a href="https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3">프로그래머스 스쿨 코딩 기초 트레이닝 day2</a> | 기초 | Lv.0 |  <a href="PGS_기초트레이닝_day2.py">🔗</a>
 
 ### Week 02 (23.07.10 ~ 23.07.16)
 
@@ -21,11 +22,11 @@
 
 |  | 플랫폼 | 문제 이름 | 알고리즘 분류 | 난이도 | 풀이 |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | PGS | <a href="https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3">프로그래머스 스쿨 코딩 기초 트레이닝</a> | 기초 | Lv.0 |
-| 2 | BOJ | <a href="https://www.acmicpc.net/problem/2675">문자열 반복</a> | 구현, 문자열 | 브론즈2 |
-| 3 | BOJ | <a href="https://www.acmicpc.net/problem/2935">소음</a> | 수학, 사칙연산, 문자열 | 브론즈3 |
-| 4 | BOJ | <a href="https://www.acmicpc.net/problem/11653">소인수분해</a> | 수학, 정수론, 소수 판정 | 브론즈1 |
-| 5 | BOJ | <a href="https://www.acmicpc.net/problem/1934">최소공배수</a> | 수학, 정수론, 유클리드 호제법 | 브론즈1 |
+| 1 | PGS | <a href="https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc&languages=python3">프로그래머스 스쿨 코딩 기초 트레이닝</a> | 기초 | Lv.0 | 
+| 2 | BOJ | <a href="https://www.acmicpc.net/problem/2675">문자열 반복</a> | 구현, 문자열 | 브론즈2 | <a href="./week2/BOJ_2675_문자열 반복.py">🔗</a>
+| 3 | BOJ | <a href="https://www.acmicpc.net/problem/2935">소음</a> | 수학, 사칙연산, 문자열 | 브론즈3 | <a href="./week2/BOJ_2935_소음.py">🔗</a>
+| 4 | BOJ | <a href="https://www.acmicpc.net/problem/11653">소인수분해</a> | 수학, 정수론, 소수 판정 | 브론즈1 | <a href="./week2/BOJ_11653_소인수분해.py">🔗</a>
+| 5 | BOJ | <a href="https://www.acmicpc.net/problem/1934">최소공배수</a> | 수학, 정수론, 유클리드 호제법 | 브론즈1 | <a href="./week2/BOJ_1934_최소공배수.py">🔗</a>
 
 <br/>
 <hr/>
