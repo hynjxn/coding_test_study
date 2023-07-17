@@ -1,0 +1,27 @@
+import sys
+sys.stdin=open("input.txt", "r") 
+
+def DFS(L, sum, tsum):  
+    global heaviest 
+    if sum+(total-tsum)<heaviest: #cut-edge 기법
+        return
+    if sum>k: #cut-edge 기법
+       return 
+    if L == n:   
+        if sum>heaviest:
+            heaviest = sum           
+    else:
+       DFS(L+1, sum+a[L], tsum+a[L])
+       DFS(L+1, sum, tsum+a[L])
+      
+
+if __name__== "__main__":
+    k, n=map(int, input().split())
+    a=[]
+    heaviest = -2147000000
+    for _ in range(n):
+        x = int(input())
+        a.append(x)
+    total=sum(a)
+    DFS(0,0,0) 
+    print(heaviest)
