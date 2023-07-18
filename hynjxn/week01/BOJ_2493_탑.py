@@ -1,4 +1,4 @@
-# 백준 1874 스택 수열
+# 백준 2493 탑
 # https://www.acmicpc.net/problem/2493
 # 시간 초과로 https://jjangsungwon.tistory.com/44 참고 후 해결
 
