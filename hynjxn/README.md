@@ -8,11 +8,11 @@
 
 |  | 플랫폼 |                                         문제 이름                                          | 알고리즘 분류 | 난이도 |                        풀이                       |
 | :---: |:---:|:--------------------------------------------------------------------------------------:|:-------:|:---:|:-----------------------------------------------:|
-| 1 | BOJ |              <a href="https://www.acmicpc.net/problem/4358">4358: 생태학</a>              |  자료구조   | 실버2 |  |
-| 2 | BOJ |           <a href="https://www.acmicpc.net/problem/7662">7662: 이중 우선순위 큐</a>           |  자료구조   | 골드4 |  |
-| 3 | BOJ |     <a href="https://www.acmicpc.net/problem/21939">21939: 문제 추천 시스템 Version 1</a>     |  자료구조   | 골드4 |  |
-| 4 | PGS | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a> |  자료구조   | Lv.3 | |
-| 5 | BOJ |             <a href="https://www.acmicpc.net/problem/11501">11501: 주식</a>              |   ???   | 실버2 |  |
+| 1 | BOJ |              <a href="https://www.acmicpc.net/problem/4358">4358: 생태학</a>              |  자료구조   | 실버2 | <a href="./week02/BOJ_4358_생태학.py">🔗</a> |
+| 2 | BOJ |           <a href="https://www.acmicpc.net/problem/7662">7662: 이중 우선순위 큐</a>           |  자료구조   | 골드4 | <a href="./week02/BOJ_7662_이중_우선순위_큐.py">🔗</a> |
+| 3 | BOJ |     <a href="https://www.acmicpc.net/problem/21939">21939: 문제 추천 시스템 Version 1</a>     |  자료구조   | 골드4 | 미해결 |
+| 4 | PGS | <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42627">디스크 컨트롤러</a> |  자료구조   | Lv.3 | <a href="./week02/PGS_디스크_컨트롤러.py">🔗</a>|
+| 5 | BOJ |             <a href="https://www.acmicpc.net/problem/11501">11501: 주식</a>              |   ???   | 실버2 | <a href="./week02/BOJ_11501_주식.py">🔗</a> |
 
 
 <br/>
